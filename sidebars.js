@@ -12,6 +12,12 @@ module.exports = {
     //   type: 'category',
     //   label: 'Firewall',
     //   items: ['firewall/introduction'],
+    // },
+    'Orbot/configuration'
+    // {
+    //   type: 'category',
+    //   label: 'Orbot',
+    //   items: ['orbot/configuration'],
     // }
   ],
   someSidebar: {
